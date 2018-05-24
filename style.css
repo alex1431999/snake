@@ -1,0 +1,25 @@
+body {
+  background-color : green;
+}
+
+canvas {
+  background-color: grey;
+  margin: auto;
+  display: block;
+  margin-top: 5px;
+  border:5px solid #000000;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  display: inline-block;
+  margin-bottom: 750px;
+}
+
+th, td {
+  border: 1px solid #000000;
+  background-color: grey;
+}
